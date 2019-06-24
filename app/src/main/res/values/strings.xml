@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Bidding Farmer</string>
+    <string name="register">Register</string>
+    <string name="farmerbutton">Farmer</string>
+    <string name="bidderbutton">Bidder</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="cofirm_password">Cofirm Password</string>
+    <string name="farmer">Farmer</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="home">Home</string>
+    <string name="bidder">Bidder</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="user_name_flogin">User Name</string>
+    <string name="enter_user_name_bidder">Enter User Name</string>
+    <string name="password_bidder">Password</string>
+    <string name="login_bidder">Login</string>
+    <string name="welcome_bidder">Welcome</string>
+    <string name="enter_password_bidder">Enter Password</string>
+    <string name="see_offer_farmer">See Offer</string>
+    <string name="enter_bidding_farmer">Enter Bidding</string>
+    <string name="submit_bid_farmer">Submit</string>
+    <string name="name_of_vegetable">Name of Vegetable</string>
+    <string name="enter_vegetable_name">Enter Vegetable Name</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="enter_grade">Enter Grade</string>
+    <string name="enter_grade_1">Enter Grade</string>
+    <string name="enter_quantity_2">Enter Quantity</string>
+    <string name="enter_vegetable_list">Enter Vegetable</string>
+    <string name="enter_vegetable_name_list">Enter Vegetable Name</string>
+    <string name="enter_quantity_list">Enter Quantity</string>
+    <string name="enter_quantity1">Enter Quantity</string>
+    <string name="enter_grade_text">Enter Grade</string>
+    <string name="submit_for_list">Submit</string>
+    <string name="enter_grade_for_list">Enter Grade</string>
+    <string name="user_name_inf">User Name</string>
+    <string name="vegetable_name_inf">Vegetable Name</string>
+    <string name="quantity_inf">Quantity</string>
+    <string name="grade_inf">Grade</string>
+    <string name="enter_city_insert">Enter City</string>
+    <string name="submit_3rd_bd">Submit</string>
+    <string name="enter_city_3rd_db">Enter City</string>
+    <string name="enter_price_for_vegetable_3rd_db">Enter price for vegetable</string>
+    <string name="enter_price_3rd_db">Enter Price</string>
+    <string name="id_seeoffer">ID</string>
+    <string name="city_seeoffer">City</string>
+    <string name="bidder_seeoffer">Bidder</string>
+    <string name="farmer_seeoffer">Farmer</string>
+    <string name="vegetable_seeoffer">Vegetable</string>
+    <string name="grade_seeoffer">Grade</string>
+    <string name="quantity_seeoffer">Quantity</string>
+    <string name="cost_seeoffer">Cost</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

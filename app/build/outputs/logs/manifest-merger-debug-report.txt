@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9cc0f6d418d196f195331d95fe2f5e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a975fb309685ad244d7581ebebb04998\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e11f2e834fd7937c9a9e266285e61c96\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6b877c4a51b5d6c25ea96138aacc354\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b89b22b1a600b5db4f5f87eb75b5614e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\171443d5d0e6ffd75cbc216b21f7428c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4ed9f706b4b7ca53a92e48f816623dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3820d5a87e567dc8cae2a013eb64a468\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a7541377c1fd9cad5775e927125e285\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0942275b4c9b3983b898ff4924da0398\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5867e45b7b3c2dcc17e43b10a3c86687\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a9acb32d99cc3e66e208ee61aff2c649\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\76307a4d5dbf72aa70bf87e613bd1c8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c739d91cf8a29806a7ba63a924ed535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8ddff0b4c26bea1db82368c2f26fab78\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb7cc57618fda9d263527b569d3a7bfd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2b946755621c9450cab40c6c5ed3b99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\59aa97cf668a0cb29b92f8a33fb0484d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09c303151c1bf9bc692e6eb72a711951\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:17:5-66:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e11f2e834fd7937c9a9e266285e61c96\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e11f2e834fd7937c9a9e266285e61c96\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b89b22b1a600b5db4f5f87eb75b5614e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b89b22b1a600b5db4f5f87eb75b5614e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:21:9-42
+	android:icon
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:19:9-37
+	android:allowBackup
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.biddingfarmer.firstpage
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:24:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.android.biddingfarmer.signup
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.android.biddingfarmer.farmer_login
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.example.android.biddingfarmer.bidder_login
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.example.android.biddingfarmer.farmer_mainpage
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:34:19-50
+activity#com.example.android.biddingfarmer.biddermainpage
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:35:9-52
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:35:19-49
+activity#com.example.android.biddingfarmer.farmer_bid
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:36:19-45
+activity#com.example.android.biddingfarmer.List
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:37:9-42
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:37:19-39
+activity#com.example.android.biddingfarmer.PriceEntryBidder
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:38:19-51
+activity#com.example.android.biddingfarmer.ListBid
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:39:9-45
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:39:19-42
+activity#com.example.android.biddingfarmer.FarmerNegotiate
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:40:9-53
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:40:19-50
+activity#com.example.android.biddingfarmer.Negotiate
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:41:9-47
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:41:19-44
+activity#com.example.android.biddingfarmer.MainActivity
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.example.android.biddingfarmer.ListBidBidder
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:43:9-51
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:43:19-48
+activity#com.example.android.biddingfarmer.BidderNegotiate
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:44:19-50
+activity#com.example.android.biddingfarmer.BNegotiate
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:45:9-48
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:45:19-45
+activity#com.example.android.biddingfarmer.FinalList
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:46:19-44
+activity#com.example.android.biddingfarmer.ListBidderFinal
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:47:9-53
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:47:19-50
+activity#com.example.android.biddingfarmer.FinalBidder
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:48:9-49
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:48:19-46
+activity#com.example.android.biddingfarmer.FinalFarmer
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:49:9-49
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:49:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:58:9-60:55
+	android:value
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:59:13-58
+activity#com.example.android.biddingfarmer.MapsActivity
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:62:9-64:59
+	android:label
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:63:13-41
+activity#com.example.android.biddingfarmer.ListSearch
+ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:65:9-57
+	android:name
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml:65:19-45
+uses-sdk
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9cc0f6d418d196f195331d95fe2f5e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\9cc0f6d418d196f195331d95fe2f5e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a975fb309685ad244d7581ebebb04998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a975fb309685ad244d7581ebebb04998\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e11f2e834fd7937c9a9e266285e61c96\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e11f2e834fd7937c9a9e266285e61c96\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6b877c4a51b5d6c25ea96138aacc354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e6b877c4a51b5d6c25ea96138aacc354\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b89b22b1a600b5db4f5f87eb75b5614e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b89b22b1a600b5db4f5f87eb75b5614e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\171443d5d0e6ffd75cbc216b21f7428c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\171443d5d0e6ffd75cbc216b21f7428c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4ed9f706b4b7ca53a92e48f816623dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4ed9f706b4b7ca53a92e48f816623dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3820d5a87e567dc8cae2a013eb64a468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3820d5a87e567dc8cae2a013eb64a468\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a7541377c1fd9cad5775e927125e285\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a7541377c1fd9cad5775e927125e285\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0942275b4c9b3983b898ff4924da0398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0942275b4c9b3983b898ff4924da0398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5867e45b7b3c2dcc17e43b10a3c86687\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5867e45b7b3c2dcc17e43b10a3c86687\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a9acb32d99cc3e66e208ee61aff2c649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a9acb32d99cc3e66e208ee61aff2c649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\76307a4d5dbf72aa70bf87e613bd1c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\76307a4d5dbf72aa70bf87e613bd1c8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c739d91cf8a29806a7ba63a924ed535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8c739d91cf8a29806a7ba63a924ed535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8ddff0b4c26bea1db82368c2f26fab78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8ddff0b4c26bea1db82368c2f26fab78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb7cc57618fda9d263527b569d3a7bfd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\cb7cc57618fda9d263527b569d3a7bfd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2b946755621c9450cab40c6c5ed3b99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e2b946755621c9450cab40c6c5ed3b99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\59aa97cf668a0cb29b92f8a33fb0484d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\59aa97cf668a0cb29b92f8a33fb0484d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09c303151c1bf9bc692e6eb72a711951\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\09c303151c1bf9bc692e6eb72a711951\AndroidManifest.xml:20:5-44
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		ADDED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Bidder-Farmer\FVBS-2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\5cf8b0f6fbba312f6ae83f0811ca434b\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\3cebdc6b2b47f2f7d8a41b677b054c1e\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\ecaae3f73cdd6887305cd69e187a823b\AndroidManifest.xml:24:13-58

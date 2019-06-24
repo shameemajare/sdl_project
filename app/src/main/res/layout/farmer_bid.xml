@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".farmer_bid">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/name_of_vegetable"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView9"
+        android:ems="10"
+        android:hint="@string/enter_vegetable_name"
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"/>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText7"
+        android:text="@string/enter_quantity"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView10"
+        android:ems="10"
+        android:hint="@string/enter_quantity"
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:digits="0123456789"/>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText10"
+        android:text="@string/enter_grade"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editText11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView11"
+        android:ems="10"
+        android:hint="Enter Grade(A,B,C,D)"
+        android:inputType="textPersonName"
+        android:digits="A,B,C,D"/>
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_back"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/submit_bid_farmer"
+        android:textColor="#FFFFFF" />
+
+
+    <Button
+
+        android:id="@+id/home2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:layout_alignParentStart="true"
+        android:background="#0095B6"
+        android:text="Home"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/home2"
+        android:layout_alignParentStart="true"
+        android:background="#FFA500"
+        android:text="BACK"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>

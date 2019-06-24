@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bkg1"
+    android:visibility="visible"
+    tools:context=".firstpage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="100dp"
+        android:text="WELCOME"
+        android:textColor="@color/colorBlack"
+        android:textSize="30sp" />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="190dp"
+        app:cardElevation="30dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_farmer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/ficon" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="96dp"
+                android:text="FARMER"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="55dp"
+        android:layout_marginTop="190dp"
+        app:cardElevation="30dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_bidder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginStart="0dp"
+                android:src="@drawable/bicon" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="96dp"
+                android:text="BIDDER"
+                android:textColor="@color/colorBlack"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="115dp"
+        android:layout_marginStart="74dp"
+        android:text="No Account?"
+        android:textColor="@color/colorBlack"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_sign_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="115dp"
+
+        android:layout_marginLeft="180dp"
+        android:clickable="true"
+        android:text="Sign Up"
+        android:textColor="@color/colorBlack"
+        android:textColorLink="#0000FF"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".biddermainpage">
+
+
+
+    <EditText
+        android:id="@+id/editText14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView15"
+        android:ems="10"
+        android:hint="@string/enter_vegetable_name_list"
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/enter_vegetable_list"
+        android:textSize="24sp"
+        android:textStyle="bold"
+/>
+
+    <EditText
+        android:id="@+id/editText13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView13"
+        android:digits="A,B,C,D"
+        android:ems="10"
+        android:hint="Enter Grade (A,B,C,D)"
+        android:inputType="textPersonName"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/editText12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView12"
+        android:ems="10"
+        android:hint="@string/enter_quantity_list"
+        android:inputType="textPersonName"
+        android:textStyle="italic"
+        android:digits="0123456789"/>
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText14"
+        android:text="@string/enter_quantity1"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText12"
+        android:text="@string/enter_grade_text"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button16"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="Search"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button21"
+        android:layout_alignParentStart="true"
+        android:background="#0095B6"
+        android:text="Received Offer"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="#FFA500"
+        android:text="Completed offers"
+        android:textColor="@color/colorWhite" />
+
+</RelativeLayout>

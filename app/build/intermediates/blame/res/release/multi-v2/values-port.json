@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "S:\\FVBS\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SaDm\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\853a1081a0a2dbfd2acf7ed0447913d3\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

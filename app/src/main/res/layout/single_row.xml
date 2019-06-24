@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="114dp"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/border_thiick"
+        android:text="@string/user_name_inf"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="114dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/textView16"
+        android:background="@drawable/border_thiick"
+        android:text="@string/user_name_inf"
+        android:textAlignment="center"
+
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="125dp"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/textView18"
+        android:background="@drawable/border_thiick"
+        android:text="@string/vegetable_name_inf"
+
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="125dp"
+        android:layout_height="31dp"
+        android:layout_below="@+id/textView18"
+        android:layout_toEndOf="@+id/textView18"
+        android:background="@drawable/border_thiick"
+
+        android:text="@string/vegetable_name_inf"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="83dp"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/textView16"
+        android:background="@drawable/border_thiick"
+        android:text="@string/quantity_inf"
+        android:textAlignment="viewStart"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="83dp"
+        android:layout_height="31dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="55dp"
+        android:layout_toEndOf="@+id/textView16"
+        android:background="@drawable/border_thiick"
+        android:text="@string/quantity_inf"
+        android:textAlignment="center"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="62dp"
+        android:layout_height="31dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/textView17"
+        android:background="@drawable/border_thiick"
+        android:text="@string/grade_inf"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+
+        android:textColor="@android:color/holo_green_dark" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="62dp"
+        android:layout_height="55dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/border_thiick"
+        android:text="@string/grade_inf"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+
+        android:textStyle="bold" />
+
+</RelativeLayout>

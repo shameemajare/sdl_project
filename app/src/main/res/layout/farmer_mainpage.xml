@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".farmer_mainpage">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="160dp"
+        android:layout_height="155dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="146dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="0dp"
+                android:layout_marginStart="5dp"
+                android:background="@drawable/ficon"
+                android:foregroundGravity="center" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@+id/button22"
+        android:layout_alignParentStart="true"
+        android:background="#0095B6"
+        android:text="@string/see_offer_farmer"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button7"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/enter_bidding_farmer"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="#FFA500"
+        android:text="completed offers"
+        android:textColor="@color/colorWhite" />
+
+
+</RelativeLayout>

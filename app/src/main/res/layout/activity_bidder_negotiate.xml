@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BidderNegotiate">
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_bck3"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="Negotitate"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/button17"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button18"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="Accept"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/button18"
+        android:background="@color/colorPrimaryDark"
+        android:text="End"
+        android:textColor="@color/colorWhite" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Current Price is"
+        android:textColor="@color/colorBlack"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_marginTop="108dp"/>
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="168dp"
+        android:layout_height="31dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="108dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        />
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="270dp"
+        android:textColor="@color/colorBlack"
+        android:textStyle="bold"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/btn_home4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#0095B6"
+        android:text="home"
+        android:textColor="@color/colorWhite" />
+
+    <Button
+        android:id="@+id/btn_bck3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_home4"
+        android:layout_alignParentStart="true"
+        android:background="#FFA500"
+        android:text="back"
+        android:textColor="@color/colorWhite" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:text="BIDDER"
+        android:textColor="#FF0000"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+
+</RelativeLayout>
